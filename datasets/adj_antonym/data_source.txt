@@ -2,3 +2,5 @@ This relation dataset was taken from the work 'Linearity of Relation Decoding in
  subject which appear in more than one tuple where removed
 The dataset was extended using ChatGPT
 The dataset was updated and validated using nltk
+
+ The code and datasets for 'Linearity of..' are licensed under the MIT License. A copy of the license can be found in licenses/.
