@@ -1,0 +1,22 @@
+[
+  {
+    "relation_name": "name_copying",
+    "template": " John-> John; Donna-> Donna; <X>->"
+  },
+  {
+    "relation_name": "year_to_following",
+    "template": " 1300-> 1301; 1000-> 1001; <X>->"
+  },
+  {
+    "relation_name": "word_first_letter",
+    "template": " word-> w, o, r, d; cat-> c, a, t; <X>->"
+  },
+  {
+    "relation_name": "general_copying_english_500",
+    "template": " walk-> walk; cat-> cat; water-> water; <X>->"
+  },
+  {
+    "relation_name": "object_superclass",
+    "template": "A <X> is a kind of"
+  }
+]

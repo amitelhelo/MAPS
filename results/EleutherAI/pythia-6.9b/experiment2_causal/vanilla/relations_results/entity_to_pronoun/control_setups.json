@@ -1,0 +1,14 @@
+[
+  {
+    "relation_name": "object_superclass",
+    "template": "A <X> is a kind of"
+  },
+  {
+    "relation_name": "adj_comparative",
+    "template": " lovely-> lovelier; edgy-> edgier; <X>->"
+  },
+  {
+    "relation_name": "year_to_following",
+    "template": " 1300-> 1301; 1000-> 1001; <X>->"
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "relation_name": "country_to_capital_wikidata",
+    "template": "The capital of <X> is"
+  }
+]

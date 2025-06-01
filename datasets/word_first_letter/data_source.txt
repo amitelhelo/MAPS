@@ -1,0 +1,5 @@
+This relation dataset was taken from the work 'Linearity of Relation Decoding in Transformer Language Models' by Evan Hernandez, Arnab Sen Sharma, Tal Haklay, Kevin Meng, Martin Wattenberg, Jacob Andreas, Yonatan Belinkov and David Bau: https://arxiv.org/abs/2308.09124
+ subject which appear in more than one tuple where removed
+ words were lowered
+
+  The code and datasets for 'Linearity of..' are licensed under the MIT License. A copy of the license can be found in licenses/.

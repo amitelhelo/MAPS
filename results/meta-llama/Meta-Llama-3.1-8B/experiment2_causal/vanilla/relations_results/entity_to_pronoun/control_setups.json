@@ -1,0 +1,22 @@
+[
+  {
+    "relation_name": "country_to_official_language_wikidata",
+    "template": "The official language of <X> is"
+  },
+  {
+    "relation_name": "general_copying_english_500",
+    "template": " walk-> walk; cat-> cat; water-> water; <X>->"
+  },
+  {
+    "relation_name": "name_copying",
+    "template": " John-> John; Donna-> Donna; <X>->"
+  },
+  {
+    "relation_name": "country_to_capital_wikidata",
+    "template": "The capital of <X> is"
+  },
+  {
+    "relation_name": "adj_comparative",
+    "template": " lovely-> lovelier; edgy-> edgier; <X>->"
+  }
+]

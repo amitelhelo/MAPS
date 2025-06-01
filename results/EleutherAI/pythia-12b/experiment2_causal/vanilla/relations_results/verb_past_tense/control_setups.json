@@ -1,0 +1,6 @@
+[
+  {
+    "relation_name": "word_last_letter",
+    "template": " word-> d, r, o, w; cat-> t, a, c; <X>->"
+  }
+]

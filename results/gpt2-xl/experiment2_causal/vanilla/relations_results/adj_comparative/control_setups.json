@@ -1,0 +1,10 @@
+[
+  {
+    "relation_name": "word_last_letter",
+    "template": " word-> d, r, o, w; cat-> t, a, c; <X>->"
+  },
+  {
+    "relation_name": "word_first_letter",
+    "template": " word-> w, o, r, d; cat-> c, a, t; <X>->"
+  }
+]

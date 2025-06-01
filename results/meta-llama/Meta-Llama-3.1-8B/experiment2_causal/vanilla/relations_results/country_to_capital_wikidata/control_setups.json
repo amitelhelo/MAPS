@@ -1,0 +1,22 @@
+[
+  {
+    "relation_name": "word_first_letter",
+    "template": " word-> w, o, r, d; cat-> c, a, t; <X>->"
+  },
+  {
+    "relation_name": "verb_past_tense",
+    "template": " hike->hiked; purchase-> purchased; <X>->"
+  },
+  {
+    "relation_name": "adj_comparative",
+    "template": " lovely-> lovelier; edgy-> edgier; <X>->"
+  },
+  {
+    "relation_name": "entity_to_pronoun",
+    "template": " mother-> she; father-> he; tribe-> they; actress-> she; apartment-> it; <X>->"
+  },
+  {
+    "relation_name": "english_to_spanish",
+    "template": " apartment-> departamento; computer-> computadora; tribe-> tribu; <X>->"
+  }
+]

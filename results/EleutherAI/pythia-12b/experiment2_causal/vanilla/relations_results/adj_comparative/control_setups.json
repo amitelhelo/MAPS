@@ -1,0 +1,10 @@
+[
+  {
+    "relation_name": "entity_to_pronoun",
+    "template": " mother-> she; father-> he; tribe-> they; actress-> she; apartment-> it; <X>->"
+  },
+  {
+    "relation_name": "country_to_capital_wikidata",
+    "template": "The capital of <X> is"
+  }
+]

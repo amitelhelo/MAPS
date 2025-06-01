@@ -1,0 +1,18 @@
+[
+  {
+    "relation_name": "object_superclass",
+    "template": "A <X> is a kind of"
+  },
+  {
+    "relation_name": "name_copying",
+    "template": " John-> John; Donna-> Donna; <X>->"
+  },
+  {
+    "relation_name": "year_to_following",
+    "template": " 1300-> 1301; 1000-> 1001; <X>->"
+  },
+  {
+    "relation_name": "country_to_capital_wikidata",
+    "template": "The capital of <X> is"
+  }
+]

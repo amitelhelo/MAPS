@@ -1,0 +1,6 @@
+[
+  {
+    "relation_name": "verb_past_tense",
+    "template": " hike->hiked; purchase-> purchased; <X>->"
+  }
+]

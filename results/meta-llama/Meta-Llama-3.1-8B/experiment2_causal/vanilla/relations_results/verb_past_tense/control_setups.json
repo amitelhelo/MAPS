@@ -1,0 +1,10 @@
+[
+  {
+    "relation_name": "country_to_capital_wikidata",
+    "template": "The capital of <X> is"
+  },
+  {
+    "relation_name": "product_by_company",
+    "template": "Nesquik is made by Nestl\u00e9; Mustang is made by Ford; <X> is made by"
+  }
+]

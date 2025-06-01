@@ -1,0 +1,10 @@
+[
+  {
+    "relation_name": "country_to_official_language_wikidata",
+    "template": "The official language of <X> is"
+  },
+  {
+    "relation_name": "country_to_capital_wikidata",
+    "template": "The capital of <X> is"
+  }
+]

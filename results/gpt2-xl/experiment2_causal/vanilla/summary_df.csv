@@ -1,0 +1,11 @@
+,\makecell{Relation name},\makecell{\#\\Heads\\removed},\makecell{Base},\makecell{-TR},\makecell{-RND},\makecell{\# tasks},\makecell{Base (CTR)},\makecell{-TR (CTR)}
+7,Copying,150,0.99,\tcbox{$\downarrow$30\%}0.69,\tcbox{$\downarrow$0\%}0.99 $\pm$ 0.00,0,,
+0,Country to capital,38,0.88,\tcbox{$\downarrow$100\%}0.00,\tcbox{$\downarrow$6\%}0.83 $\pm$ 0.07,1,0.71 $\pm$ 0.00,\tcbox{$\uparrow$2\%}0.72 $\pm$ 0.00
+1,Country to language,148,0.96,\tcbox{$\downarrow$91\%}0.08,\tcbox{$\downarrow$2\%}0.94 $\pm$ 0.02,0,,
+8,Name copying,133,0.76,\tcbox{$\downarrow$100\%}0.00,\tcbox{$\downarrow$25\%}0.57 $\pm$ 0.08,1,0.71 $\pm$ 0.00,\tcbox{$\downarrow$15\%}0.60 $\pm$ 0.00
+9,Noun to pronoun,27,0.71,\tcbox{$\downarrow$26\%}0.53,\tcbox{$\downarrow$4\%}0.68 $\pm$ 0.03,4,0.72 $\pm$ 0.13,\tcbox{$\downarrow$3\%}0.69 $\pm$ 0.16
+3,Object to superclass,99,0.71,\tcbox{$\downarrow$54\%}0.32,\tcbox{$\downarrow$2\%}0.69 $\pm$ 0.01,1,0.71 $\pm$ 0.00,\tcbox{$\downarrow$42\%}0.41 $\pm$ 0.00
+2,Product by company,73,0.40,\tcbox{$\downarrow$81\%}0.08,\tcbox{$\uparrow$1\%}0.41 $\pm$ 0.01,1,0.40 $\pm$ 0.00,\tcbox{$\uparrow$2\%}0.41 $\pm$ 0.00
+4,Verb to past tense,150,0.40,\tcbox{$\downarrow$56\%}0.18,\tcbox{$\downarrow$26\%}0.30 $\pm$ 0.11,0,,
+5,Word to first letter,62,0.18,\tcbox{$\downarrow$16\%}0.16,\tcbox{$\downarrow$5\%}0.17 $\pm$ 0.02,1,0.04 $\pm$ 0.00,\tcbox{$\uparrow$250\%}0.15 $\pm$ 0.00
+6,Year to following,54,0.53,\tcbox{$\downarrow$100\%}0.00,\tcbox{$\uparrow$1\%}0.53 $\pm$ 0.04,1,0.71 $\pm$ 0.00,\tcbox{$\downarrow$36\%}0.45 $\pm$ 0.00

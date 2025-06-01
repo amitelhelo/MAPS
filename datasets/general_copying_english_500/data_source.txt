@@ -1,0 +1,5 @@
+This dataset was created by thresholding and sampling from the english-word-frequency dataset: https://www.kaggle.com/datasets/wheelercode/english-word-frequency-list
+find specific modifications in the paper: Inferring Functionality of Attention Heads From Their Parameters
+
+The english-word-frequence dataset is based on the google books ngram viewer: https://storage.googleapis.com/books/ngrams/books/datasetsv3.html by the Google Books Team.
+which is licensed under the [Creative Commons Attribution 3.0 Unported License (CC BY 3.0)](https://creativecommons.org/licenses/by/3.0/)

@@ -1,0 +1,14 @@
+[
+  {
+    "relation_name": "adj_comparative",
+    "template": " lovely-> lovelier; edgy-> edgier; <X>->"
+  },
+  {
+    "relation_name": "entity_to_pronoun",
+    "template": " mother-> she; father-> he; tribe-> they; actress-> she; apartment-> it; <X>->"
+  },
+  {
+    "relation_name": "object_superclass",
+    "template": "A <X> is a kind of"
+  }
+]

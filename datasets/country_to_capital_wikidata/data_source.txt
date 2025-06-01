@@ -1,0 +1,13 @@
+This relation dataset was extracted using a WikiData query: 
+
+    SELECT ?countryLabel ?capitalLabel WHERE {
+      ?country wdt:P31 wd:Q6256;
+              wdt:P36 ?capital.
+      SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+    }
+    ORDER BY ?countryLabel
+    
+ and then countries with more than 1 capital city were filtered out
+some countries were manually replaced with simpler aliases
+
+Wikidata content is available under the Creative Commons CC0

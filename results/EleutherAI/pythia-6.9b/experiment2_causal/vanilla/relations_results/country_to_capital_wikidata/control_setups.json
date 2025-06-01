@@ -1,0 +1,6 @@
+[
+  {
+    "relation_name": "word_first_letter",
+    "template": " word-> w, o, r, d; cat-> c, a, t; <X>->"
+  }
+]

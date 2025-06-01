@@ -1,0 +1,18 @@
+[
+  {
+    "relation_name": "country_to_capital_wikidata",
+    "template": "The capital of <X> is"
+  },
+  {
+    "relation_name": "entity_to_pronoun",
+    "template": " mother-> she; father-> he; tribe-> they; actress-> she; apartment-> it; <X>->"
+  },
+  {
+    "relation_name": "word_first_letter",
+    "template": " word-> w, o, r, d; cat-> c, a, t; <X>->"
+  },
+  {
+    "relation_name": "country_to_official_language_wikidata",
+    "template": "The official language of <X> is"
+  }
+]
